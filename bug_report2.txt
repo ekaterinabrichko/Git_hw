@@ -1,0 +1,12 @@
+Env: QA
+
+STR:
+1. Open the app
+2. Send push notification with deeplink to Analytics tab
+3. Open push notification
+
+Actual result:
+Home tab is opened
+
+Expected result:
+Analytics tab is opened
