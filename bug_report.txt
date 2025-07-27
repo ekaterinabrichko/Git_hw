@@ -1,1 +1,12 @@
+Env: QA
 
+STR: 
+1. Open the app
+2. Go to analytics tab
+3. Open Strength widget
+
+Actual result:
+Activity widget is displayed
+
+Expected result:
+Strength widget is displayed
