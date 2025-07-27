@@ -1,0 +1,10 @@
+ENV: QA
+
+STR:
+1. Open the app
+
+Actual result:
+Incorrect app is displayed
+
+Expected result:
+Correct app is displayed
